@@ -7,7 +7,7 @@
   {
     "name": "Ocean Mist",
     "price": "$50",
-    "image": "https://github.com/mazharislam236/perfume-website/blob/main/images/ocean_mist.jpg"
+    "image": "images/ocean_mist.jpg"
   },
   {
     "name": "Midnight Oud",
@@ -15,4 +15,5 @@
     "image": "https://via.placeholder.com/200"
   }
 ]
+
 
