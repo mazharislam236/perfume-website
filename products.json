@@ -7,7 +7,7 @@
   {
     "name": "Ocean Mist",
     "price": "$50",
-    "image": "images/ocean_mist.jpg"
+    "image": "ocean_mist.jpg"
   },
   {
     "name": "Midnight Oud",
@@ -15,5 +15,6 @@
     "image": "https://via.placeholder.com/200"
   }
 ]
+
 
 
